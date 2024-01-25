@@ -1,0 +1,9 @@
+I have used Html, CSS, Bootstrap to make it website user firndly.
+I also used css grid system.
+I also used all the css properties and selectors in style.css
+I have created 4 html pages the main page name start with index.html
+I also used table in my hobbies page.
+I also used meadia querry to make it responsive.
+I also used image in home page.
+In the contact me page i have used bootstrap contact form.
+I also used hover effect.

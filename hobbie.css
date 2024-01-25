@@ -1,0 +1,27 @@
+.hobbie-content h2 {
+  text-align: center;
+  margin-bottom: 1vw;
+  font-size: 3vw;
+}
+.hobbie-content {
+  width: 100%;
+  height: fit-content;
+  padding: 2vw 4vw;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.2vw;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 1vw;
+  text-align: left;
+  font-size: 1.5vw;
+}
+
+th {
+  background-color: #f2f2f2;
+}

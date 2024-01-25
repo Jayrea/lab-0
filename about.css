@@ -1,0 +1,21 @@
+.content {
+  width: 100%;
+  padding: 1.2vw 15vw;
+  text-align: center;
+}
+.top-heading {
+  margin-bottom: 3vw;
+}
+.bottom-heading {
+  margin-bottom: 3vw;
+  border-bottom: 1px solid #000;
+}
+.bottom-heading p {
+  font-size: 1.2vw;
+  margin-bottom: 0.5vw;
+}
+@media (max-width: 700px) {
+  .bottom-heading p {
+    font-size: 2vw;
+  }
+}
